@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">xiaoyaoyou</string>
+    <string name="homepageicon" />
+    <string name="myordericon" />
+    <string name="mydataicon" />
+    <string name="textview">TextView</string>
+    <string name="buyicon" />
+    <string name="sentiocn" />
+    <string name="senticon" />
+</resources>
